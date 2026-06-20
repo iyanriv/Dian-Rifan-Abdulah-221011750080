@@ -1,2 +1,5 @@
-# Dian-Rifan-Abdulah-221011750080
+# Kelompok 2
 Tugas Kelompok mata kuliah TESTING DAN IMPLEMENTASI SISTEM
+
+## File Ini Sudah Diubah oleh Kukuh Wijanarko ##
+Terima kasih
