@@ -1,19 +1,19 @@
 function tambah() {
-    // Anggota 1
+    // Tulis Di sini
 }
 
 function kurang() {
-    // Anggota 2
+    // Tulis Di Sini
 }
 
 function kali() {
-    // Anggota 3
+    // Tulis Di Sini
 }
 
 function bagi() {
-    // Anggota 4
+    // Tulis Di Sini
 }
 
 function clearData() {
-    // Anggota 5
+    // Tulis Di Sini
 }
