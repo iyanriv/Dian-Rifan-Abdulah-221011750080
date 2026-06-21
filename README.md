@@ -6,5 +6,7 @@ Tugas Kelompok mata kuliah TESTING DAN IMPLEMENTASI SISTEM
 - Kukuh Wijanarko
 - Slamet Rakah Firmansyah
 - Rahman Kurnia Agustiano
+- Hairia Sarfan
+- Panggah Madhiko
 
 Terima kasih
