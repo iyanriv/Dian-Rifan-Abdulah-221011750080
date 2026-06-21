@@ -32,7 +32,10 @@ function kali() {
 }
 
 function bagi() {
-    // Tulis Di Sini
+    let a = 10;
+    let b = 2;
+    let hasil = a / b;
+    console.log("Hasil pembagian = " + hasil);
 }
 
 function clearData() {
